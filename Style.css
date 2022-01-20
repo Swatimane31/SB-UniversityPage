@@ -1,0 +1,18 @@
+.header{
+    background-color: powderblue;
+    text-align: center;
+    background-image: url(download.jfif);
+    background-size: cover;
+}
+.nav{
+    background-color: darkgrey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
